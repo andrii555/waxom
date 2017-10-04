@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ox6wzd');
+  src:  url('fonts/icomoon.eot?ox6wzd#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ox6wzd') format('truetype'),
+    url('fonts/icomoon.woff?ox6wzd') format('woff'),
+    url('fonts/icomoon.svg?ox6wzd#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.iconmoon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icons-black-arrow-pointing-up:before {
+  content: "\e912";
+}
+.icons-arrow-up:before {
+  content: "\e913";
+}
+.icons-key-up:before {
+  content: "\e914";
+}
+.icons-small-up-arrows-in-a-circle:before {
+  content: "\e915";
+}
+.icons-go-to-the-top:before {
+  content: "\e916";
+}
+.icons-right-arrow:before {
+  content: "\e910";
+}
+.icons-left-arrow:before {
+  content: "\e911";
+}
+.icons-back:before {
+  content: "\e90e";
+}
+.icons-next:before {
+  content: "\e90f";
+}
+.icons-dish:before {
+  content: "\e904";
+}
+.icons-social:before {
+  content: "\e90b";
+}
+.icons-stack:before {
+  content: "\e90c";
+}
+.icons-cart-icon:before {
+  content: "\e90d";
+}
+.icons-arrows:before {
+  content: "\e900";
+}
+.icons-link:before {
+  content: "\e901";
+}
+.icons-find:before {
+  content: "\e902";
+}
+.icons-play:before {
+  content: "\e903";
+}
+.icons-favorite:before {
+  content: "\e905";
+}
+.icons-chat-comment-oval-speech-bubble-with-text-lines:before {
+  content: "\e906";
+}
+.icons-cup-of-hot-coffee:before {
+  content: "\e907";
+}
+.icons-cogwheel:before {
+  content: "\e908";
+}
+.icons-drawing:before {
+  content: "\e909";
+}
+.icons-magnifying-glass:before {
+  content: "\e90a";
+}
+.icons-marketing:before {
+  content: "\e923";
+}
